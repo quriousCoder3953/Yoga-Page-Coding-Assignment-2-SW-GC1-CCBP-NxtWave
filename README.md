@@ -10,5 +10,3 @@ Desired Output: -
 
 
 Check Output Here: -
-
-https://quriouscoder3953.github.io/Yoga-Page-Coding-Assignment-2-SW-GC1-CCBP-NxtWave/
